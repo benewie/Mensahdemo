@@ -1,0 +1,9 @@
+{
+	"name": "MensahDataFactory2",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "51d428d1-8ebd-4655-a37f-f2af53ea7c78",
+		"tenantId": "6d780e84-c2cd-4607-ac4d-87c5f4b188b6"
+	}
+}
