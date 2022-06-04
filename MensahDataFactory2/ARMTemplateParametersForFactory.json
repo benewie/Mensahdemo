@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "MensahDataFactory2"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
